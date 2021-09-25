@@ -1,2 +1,3 @@
-# new_project
-just trying something new
+# PYTHON SCRIPTS 
+
+ALL PY SCRIPTS INCLUDED OR USED IN JUPYTER AND SPYDER
